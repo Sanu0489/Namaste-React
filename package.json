@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is the best React Tutorial I have ever seen",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanu0489/Namaste-React.git"
+  },
+  "keywords": [
+    "Namaste",
+    "React"
+  ],
+  "author": "Sanu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanu0489/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/Sanu0489/Namaste-React#readme"
+}
