@@ -10,10 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Sanu0489/Namaste-React.git"
   },
-  "keywords": [
-    "Namaste",
-    "React"
-  ],
+  "keywords": [],
   "author": "Sanu",
   "license": "ISC",
   "bugs": {
